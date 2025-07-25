@@ -78,7 +78,6 @@ Após a execução, os relatórios serão gerados automaticamente na pasta `resu
 
 ---
 
-👩‍💻 **Autora**
-
-Lorena
+## 👩‍💻 Desenvolvedora
+- [Lorena Silva](https://github.com/Lorenaasilva)
 ```
